@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: markchristianrobbins.github.io.obs-quartz
+  baseUrl: markchristianrobbins.github.io/obs-quartz
   ignorePatterns:
     - private
     - templates
